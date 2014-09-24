@@ -1,0 +1,56 @@
+body {
+    background: #1D1D1D;
+    text-align: center;
+	color: #BBBBBB;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 0 25px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+.title{
+	background: black;
+}
+
+.small {
+	height: 100px;
+}
+
+.left {
+	text-align: left;
+}
+
+input {
+	color: black;
+}
+
+
+select {
+	color: black;
+}
+
+textarea {
+	color: black;
+}
+
+h1 {
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+    margin-top: 0;
+	color: #FF6600;
+    font-size: 35px;
+}
+
+button{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #E4E4E4;
+	background: #1D1D1D;
+}
+
+hr{
+	color: #BBBBBB;
+}
+
